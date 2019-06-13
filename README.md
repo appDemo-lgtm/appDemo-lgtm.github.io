@@ -8,21 +8,18 @@ GNP, Unemployment and Emigration Rate are mapped to create a background harmonic
 
 A description of the sonification is provided here:
 
-[Info](https://stephenroddy.github.io/landing.html)
+[Info](https://appdemo-lgtm.github.io/landing.html)
 
 The visualisation is a work in progress and will be continually developed over the coming months.
 
 The sonification and most recent visualisation can be played in the browser here: 
 
-[Current state of Visualisation/Sonification](https://stephenroddy.github.io/index.html)
+[Current state of Visualisation/Sonification](https://appdemo-lgtm.github.io/)
 
 
 Further sonifications are available on "The Human Cost", an elecotronc album consisting of sonifications and musifications of the Irish financial crash :
 
-[Spotify](https://open.spotify.com/album/2AekYfNWhQRer1TH2loHGF)
-
-[Apple Music](https://music.apple.com/us/album/the-human-cost/1278676607)
-
+[Mediafire](https://www.mediafire.com/file/nazf9zlbycigaos/Coldwater_Sixty_Suicides_Every_Hit.wav/file)
 
 ## Credits
 
